@@ -1,5 +1,5 @@
 /* [Star-Problem]
-Create a Bunk-Caculatior using concept of OOP. 
+Create a Bunk-Calculator using concept of OOP. 
 -> Import timetable & holidays list.
 
 Input from user:
