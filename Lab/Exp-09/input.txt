@@ -1,0 +1,3 @@
+This is a mixed case sentence.
+Hello World!
+123 numbers
