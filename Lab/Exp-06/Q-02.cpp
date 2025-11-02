@@ -30,7 +30,7 @@ public:
         cout << "Car default constructor called (delegating)." << endl;
     }
 
-    Car(string color, string model, int year) : Vehicle(color), model(model), year(year) {
+    Car(string color, string model, int year) : Vehicle(color){
         this->model = model;
         this->year = year;
         cout << "Car parameterized constructor called.." << endl;

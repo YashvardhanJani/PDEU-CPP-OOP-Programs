@@ -36,7 +36,7 @@ public:
     friend  int  getTotalFunds(const  Wallet&  w,  const BankAccount& ba);
 };
 
-int  getTotalFunds(const  Wallet&  w,  const BankAccount& ba){
+int getTotalFunds(const  Wallet&  w,  const BankAccount& ba){
     int total = w.cashAmount + ba.savings;
     return total;
 }

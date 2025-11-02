@@ -29,7 +29,7 @@ private:
     string major;
 
 public:
-    Student(string name, int age, string studentId, string major) : Person(name, age), studentId(studentId), major(major){
+    Student(string name, int age, string studentId, string major) : Person(name, age){
         this->studentId = studentId;
         this->major = major;
         cout << "Student constructor called.." << endl;
