@@ -45,15 +45,15 @@
 
 | Experiments | Description | Topics Covered | Link |
 |-------------|-------------|----------------|------|
-| Exp-1 | Introduction to C++ & I/O | Variables, Data Types, Operators, cout, cin, Input/Output Streams | 🔗[View](./Lab/Exp-1) |
-| Exp-2 | Functions & Control Structures | Function Declaration, Function Overloading, Inline Functions, Default Arguments, Loops | 🔗[View](./Lab/Exp-2) |
-| Exp-3 | Introduction to OOP & Encapsulation | Class Definition, Data Members, Member Functions, Object Creation, Access Specifiers | 🔗[View](./Lab/Exp-3) |
-| Exp-4 | Constructors & Destructors | Default Constructor, Parameterized Constructor, Copy Constructor, Destructor, Initialization | 🔗[View](./Lab/Exp-4) |
-| Exp-5 | Operator Overloading | Unary Operators, Binary Operators, Friend Functions, I/O Operator Overloading | 🔗[View](./Lab/Exp-5) |
-| Exp-6 | Inheritance | Single Inheritance, Multiple Inheritance, Multilevel Inheritance, Diamond Problem Resolution | 🔗[View](./Lab/Exp-6) |
-| Exp-7 | Polymorphism & Virtual Functions | Virtual Functions, Function Overriding, Runtime Polymorphism, Late Binding, Pure Virtual Functions | 🔗[View](./Lab/Exp-7) |
-| Exp-8 | Friend Functions & Static Members | Friend Functions, Static Data Members, Static Member Functions, Scope Resolution Operator | 🔗[View](./Lab/Exp-8) |
-| Exp-9 | File Handling | File Streams, Text Files, Binary Files, Random Access, File Pointers, seekg, seekp | 🔗[View](./Lab/Exp-9) |
+| Exp-1 | Introduction to C++ & I/O | Variables, Data Types, Operators, cout, cin, Input/Output Streams | 🔗[View](./Lab/Exp-01) |
+| Exp-2 | Functions & Control Structures | Function Declaration, Function Overloading, Inline Functions, Default Arguments, Loops | 🔗[View](./Lab/Exp-02) |
+| Exp-3 | Introduction to OOP & Encapsulation | Class Definition, Data Members, Member Functions, Object Creation, Access Specifiers | 🔗[View](./Lab/Exp-03) |
+| Exp-4 | Constructors & Destructors | Default Constructor, Parameterized Constructor, Copy Constructor, Destructor, Initialization | 🔗[View](./Lab/Exp-04) |
+| Exp-5 | Operator Overloading | Unary Operators, Binary Operators, Friend Functions, I/O Operator Overloading | 🔗[View](./Lab/Exp-05) |
+| Exp-6 | Inheritance | Single Inheritance, Multiple Inheritance, Multilevel Inheritance, Diamond Problem Resolution | 🔗[View](./Lab/Exp-06) |
+| Exp-7 | Polymorphism & Virtual Functions | Virtual Functions, Function Overriding, Runtime Polymorphism, Late Binding, Pure Virtual Functions | 🔗[View](./Lab/Exp-07) |
+| Exp-8 | Friend Functions & Static Members | Friend Functions, Static Data Members, Static Member Functions, Scope Resolution Operator | 🔗[View](./Lab/Exp-08) |
+| Exp-9 | File Handling | File Streams, Text Files, Binary Files, Random Access, File Pointers, seekg, seekp | 🔗[View](./Lab/Exp-09) |
 | Exp-10 | Exception Handling & Templates | Try-Catch Blocks, Custom Exceptions, Function Templates, Class Templates, Template Specialization | 🔗[View](./Lab/Exp-10) |
 | Exp-11 | STL Containers | Vector, List, Map, Set, Iterators, STL Algorithms, Container Operations | 🔗[View](./Lab/Exp-11) |
 | Exp-12 | Unit Testing & Test-Driven Development (TDD) | Test Cases, Assertions, Debugging Techniques, Error Handling, Code Validation | 🔗[View](./Lab/Exp-12) |
@@ -95,7 +95,9 @@ g++ -O2 filename.cpp -o output
 
 ---
 
-## 🫱🏻‍🫲🏼 Contributing <a id="Contribution"></a>
+<a id="contribution"></a>
+
+## 🫱🏻‍🫲🏼 Contributing
 
 Contributions are welcome! If you have improvements, bug fixes or additional features:
 
