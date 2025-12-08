@@ -8,29 +8,30 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/YashvardhanJani/PDEU-CPP-OOP-Programs?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 <!-- line break -->
-![GitHub stars](https://img.shields.io/github/stars/YashvardhanJani/PDEU-CPP-OOP-Programs?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/YashvardhanJani/PDEU-CPP-OOP-Programs?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/YashvardhanJani/PDEU-CPP-OOP-Programs?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YashvardhanJani/PDEU-CPP-OOP-Programs?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/YashvardhanJani/PDEU-CPP-OOP-Programs?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/YashvardhanJani/PDEU-CPP-OOP-Programs?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/YashvardhanJani/PDEU-CPP-OOP-Programs?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/YashvardhanJani/PDEU-CPP-OOP-Programs?style=flat)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/YashvardhanJani/PDEU-CPP-OOP-Programs?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/YashvardhanJani/PDEU-CPP-OOP-Programs?style=flat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YashvardhanJani.PDEU-CPP-OOP-Programs&left_color=grey&right_color=black&format=true)
 
 ---
 
-**📂 [Explore Programs](#-explore-programs)** • 
-**🚀 [Getting Started](#-getting-started)** • 
-**📖 [Recommended Books](#-recommended-books)** • 
-**🫱🏻‍🫲🏼 [Contributing](#contribution)** •
-**📞 [Connect](#-connect--collaborate)**
+**[Explore Programs](#explore-programs)** • 
+**[Getting Started](#getting-started)** • 
+**[Recommended Books](#recommended-books)** • 
+**[Contributing](#contribution)** •
+**[Connect](#connect--collaborate)**
 
 ---
 
 </div>
 
-## 🌟 Overview
+## Overview
 
 > Welcome to the **PDEU OOP with C++ Programs**! This repository serves as a comprehensive collection of **Object-Oriented Programming** laboratory exercises & class-work completed during my academic journey at **Pandit Deendayal Energy University**.
 
-## 📌 Student Details  
+## Student Details  
 
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ Logo" width="120">
 
@@ -39,7 +40,7 @@
 - **Instructors (Professors):** Dr. Pooja Shah 
 - **College:** Pandit Deendayal Energy University, Gandhinagar, Gujarat, India
 
-## 📂 Explore Programs
+## Explore Programs
 
 <div align="center">
 
@@ -60,7 +61,7 @@
 
 </div>
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -68,7 +69,7 @@
    cd PDEU-CPP-OOP-Programs
    ```
 
-## ⚙️ Compilation Guide
+## Compilation Guide
 
 ### Using GCC/G++ (Recommended)
 
@@ -86,7 +87,7 @@ g++ -Wall filename.cpp -o output
 g++ -O2 filename.cpp -o output
 ```
 
-## 📖 Recommended Books
+## Recommended Books
 
 1. **Object-Oriented Programming with C++** - E. Balagurusamy
 2. **The C++ Programming Language** - Bjarne Stroustrup
@@ -97,7 +98,7 @@ g++ -O2 filename.cpp -o output
 
 <a id="contribution"></a>
 
-## 🫱🏻‍🫲🏼 Contributing
+## Contributing
 
 Contributions are welcome! If you have improvements, bug fixes or additional features:
 
@@ -126,7 +127,7 @@ Contributions are welcome! If you have improvements, bug fixes or additional fea
    - Link any related issues
    - Request review from project maintainers
 
-### ✅ Contribution Guidelines
+### Contribution Guidelines :
 
 - Use meaningful variable and function names
 - Add comments explaining complex logic
@@ -142,13 +143,13 @@ Contributions are welcome! If you have improvements, bug fixes or additional fea
 
 ---
 
-## 📞 Connect & Collaborate
+## Connect & Collaborate
 
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/yashvardhan-jani)
-- 📧 **Email:** [yashvardhanjani7@gmail.com](mailto:yashvardhanjani7@gmail.com)
-- 🐙 **GitHub:** [@YashvardhanJani](https://github.com/YashvardhanJani)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/yashvardhan-jani)
+- **Email:** [yashvardhanjani7@gmail.com](mailto:yashvardhanjani7@gmail.com)
+- **GitHub:** [@YashvardhanJani](https://github.com/YashvardhanJani)
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
