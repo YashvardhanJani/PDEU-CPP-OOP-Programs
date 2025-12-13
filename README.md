@@ -61,6 +61,41 @@
 
 </div>
 
+<table>
+   <tr align="center">
+      <td>Assignments</td>
+      <td><a href="./Assignment/Assignment-01/">Assignment-01</a></td>
+      <td><a href="./Assignment/Assignment-02/">Assignment-02</a></td>
+      <td><a href="./Assignment/Assignment-03/">Assignment-03</a></td>
+      <td><a href="./Assignment/Assignment-04/">Assignment-04</a></td>
+   </tr>
+   <tr align="center">
+      <td>Practice-Set</td>
+      <td><a href="./Practice-Set/Set-01/">Set 01</a></td>
+      <td><a href="./Practice-Set/Set-02/">Set 02</a></td>
+      <td><a href="./Practice-Set/Set-03/">Set 03</a></td>
+      <td><a href="./Practice-Set/Set-04/">Set 04</a></td>
+   </tr>
+   <tr align="center">
+      <td>Class-Work & IAs</td>
+      <td>🔗<a href="./Class-Work/">View</a></td>
+      <td>–</td>
+      <td>Lab-Tests</td>
+      <td>🔗<a href="./Lab-Test/">View</a></td>
+   </tr>
+</table>
+
+- ### **End-Sem Lab Practical Exam**
+<table>
+  <tr>
+    <td>Practical Exam - 2025</td>
+    <td><a href="./Practical-Exam/Set01.cpp">Set 01</a></td>
+    <td><a href="./Practical-Exam/Set02.cpp">Set 02</a></td>
+    <td><a href="./Practical-Exam/Set03.cpp">Set 03</a></td>
+    <td><a href="./Practical-Exam/Set04.cpp">Set 04</a></td>
+  </tr>
+</table> 
+
 ## Getting Started
 
 1. **Clone the repository**
